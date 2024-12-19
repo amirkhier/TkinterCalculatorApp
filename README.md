@@ -83,7 +83,8 @@ The calculator application consists of the following key components:
 
 ## Preview
 
-![Calculator Screenshot](https://via.placeholder.com/400x300.png?text=Calculator+Preview)
+![image](https://github.com/user-attachments/assets/6d097f9a-b174-4de6-bba9-315848fea834)
+
 
 ---
 
